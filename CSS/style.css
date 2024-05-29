@@ -1,0 +1,26 @@
+.custom_sidebar_bg {
+    background-image: url(../img/sidebar-bg.png);
+}
+.custom_h_100 {
+    height: 100%;
+}
+.search-icon {
+    background-image: url(../img/search.svg);
+    background-repeat: no-repeat;
+    background-position: 10px center;
+    padding-left: 35px;
+    flex: 1 1 auto;
+    background-color: rgb(229, 229, 229);
+    border:none
+}
+.search-bar {
+    display: flex;
+    flex: 1 1 auto;
+    gap: 1%;
+    align-items: center;
+}
+.bi-bell-fill {
+    color: rgb(255, 143, 0);
+}
+img.logo-size {
+    width: 100%;

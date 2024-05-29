@@ -1,0 +1,82 @@
+/* DEBUG */
+
+
+.custom_h {
+    height: 100px;
+  }
+  .custom_h_0-25 {
+    height: 25px;
+  }
+  .custom_h_0-5 {
+    height: 50px;
+  }
+  .custom_h_1 {
+    height: 100px;
+  }
+  .custom_h_1-5 {
+    height: 150px;
+  }
+  .custom_h_2 {
+    height: 200px;
+  }
+  .custom_h_2-5 {
+    height: 250px;
+  }
+  .custom_h_3 {
+    height: 300px;
+  }
+  .custom_h_3-5 {
+    height: 350px;
+  }
+  .custom_h_4 {
+    height: 400px;
+  }
+  .custom_h_4-5 {
+    height: 450px;
+  }
+  .custom_h_5 {
+    height: 500px;
+  }
+  .custom_h_6 {
+    height: 600px;
+  }
+  .custom_h_7 {
+    height: 700px;
+  }
+  .custom_h_8 {
+    height: 800px;
+  }
+  .custom_h_8-5 {
+    height: 850px;
+  }
+  .custom_h_9 {
+    height: 900px;
+  }
+  .custom_h_10 {
+    height: 1000px;
+  }
+  .custom_h_11 {
+    height: 1100px;
+  }
+  .custom_h_12 {
+    height: 1200px;
+  }
+  .custom_brandeis_blue {
+      background-color: rgb(27, 114, 232);
+  }
+  .custom_prussian_blue {
+      background-color: rgb(19, 41, 64);
+  }
+  .custom_seasalt {
+      background-color: rgb(248, 249, 250);
+  }
+  .custom_white {
+      background-color: white;
+  }
+  .custom_border {
+      border: 1px solid gray;
+      border-bottom: 1px solid gray;
+  }
+  .custom_border_bottom {
+      border-bottom: 1px solid gray;
+  }
