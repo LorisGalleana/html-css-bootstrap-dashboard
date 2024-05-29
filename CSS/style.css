@@ -30,7 +30,29 @@ img.logo-size {
     justify-content: space-evenly;
 }
 
-
+.custom_fs-10 {
+    font-size: 10px;
+}
+.custom_fs-12 {
+    font-size: 12px;
+}
+.custom_fs-14 {
+    font-size: 14px;
+}
+.custom-breadcrumb {
+    list-style: none;
+    display: flex;
+    gap: 1%;
+    padding-left: 0;
+}
+.custom-breadcrumb img {
+    width: 15px;
+}
+.add-student {
+    align-items: center;
+    gap: 10%;
+    padding-bottom: 15%;
+}
 
 
 
