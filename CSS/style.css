@@ -73,6 +73,10 @@ img.logo-size {
     height: 20px;
     width: 50px;
 }
+.custom_no_p_lr {
+    padding-left: 0;
+    padding-right: 0;
+}
 
 /* .signal span {
     margin-right: -4%;
