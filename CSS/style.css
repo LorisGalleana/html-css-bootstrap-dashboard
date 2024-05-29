@@ -24,3 +24,19 @@
 }
 img.logo-size {
     width: 100%;
+}
+.home, .chart, .signal {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+
+
+
+/* .signal span {
+    margin-right: -4%;
+}
+.chart {
+    margin-right: 8%;
+} */
